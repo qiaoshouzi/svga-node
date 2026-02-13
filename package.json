@@ -1,6 +1,6 @@
 {
   "name": "svga-node",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Convert SVGA to image sequences in Node.js",
   "type": "module",
   "author": "qiaoshouzi <qiaoshouzi@cfm.moe>",
@@ -44,5 +44,10 @@
   "bugs": {
     "url": "https://github.com/qiaoshouzi/svga-node/issues"
   },
-  "homepage": "https://github.com/qiaoshouzi/svga-node/#readme"
+  "homepage": "https://github.com/qiaoshouzi/svga-node/#readme",
+  "files": [
+    "dist",
+    "LICENSE",
+    "README.md"
+  ]
 }
